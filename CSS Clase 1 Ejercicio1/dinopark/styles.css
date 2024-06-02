@@ -1,0 +1,17 @@
+.carnivoros {
+    background-color: rgb(138, 7, 7);
+}
+.herbivoros {
+    background-color: rgb(0, 255, 92);
+}
+#t-rex {
+    color: violet;
+    font-size: x-large;
+}
+#tri{
+    font-weight:800;
+    text-decoration: underline;
+}
+.voladores {
+    text-shadow: 5px 11px rgb(73, 56, 56) ;    
+}
