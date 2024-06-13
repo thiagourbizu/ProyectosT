@@ -1,0 +1,22 @@
+div{
+    border-radius: 20px;
+    margin: 0px auto;
+
+}
+.pan {
+    background-color: rgb(158, 63, 8);
+    width: 200px;
+    height: 40px;
+   
+}
+#salchicha {
+    background-color: rgb(255, 0, 0);
+    width: 230px;
+    height: 40px;
+}
+#arriba {
+    border-bottom: 3px solid black;
+}
+#abajo {
+    border-top: 3px solid black;
+}

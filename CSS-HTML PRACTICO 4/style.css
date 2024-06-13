@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(80, 79, 79);
+    margin: 0;
+    width: 100vh;
+    height: 100vh; 
+}
+
+.contenedor {
+    background-color: rgb(179, 178, 178);
+    width: 50%;
+    font-size: 1.25em;
+    padding: 20px;
+    border-radius: 10px; /* Rounded corners */
+    margin-bottom: 20px; /* Space between contenedor and historia */
+    text-align: center; /* Center text */
+}
+
+.titulo {
+    margin: 0;
+    color: rgb(80, 79, 79);
+}
+
+.historia {
+    background-color: rgb(24, 21, 21);
+    width: 50%;
+    height: 70%;
+    padding: 20px;
+    border-radius: 10px; /* Rounded corners */
+    color: white; /* Text color for contrast */
+    text-align: center; /* Center text */
+}
+button {
+    border-radius: 6px;
+    background-color: rgb(110, 167, 25);
+    cursor: pointer;
+}
